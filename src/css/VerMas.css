@@ -1,0 +1,55 @@
+.imagenModal{
+    width: 300px;
+    height: 250px;
+}
+.modalBody{
+    background-color: #FFD508;
+    height: 1005px;
+}
+.modalDialog{
+    border-radius: 10px;
+    border-style: inset;
+    border-width: 5px;
+    border-color: 	#3b4cca;
+}
+.cardVermas{
+    background-color: #FFD508;
+    border: none;
+}
+.cardText1{
+    display: flex;
+    
+}
+.modalHeader{
+    background-color:#FFCC01;
+    border-color: #3b4cca;
+    border-width: 4px;
+    border-bottom-style: outset;
+}
+.modalFooter{
+    background-color:#FFCC01;
+    border-color: #3b4cca;
+    border-width: 4px;
+    border-top-style: outset;
+}
+.cardTextDesc{
+    font-size: 20px;
+    text-align: left;
+}
+.cardTextTipo{
+    font-size: 20px;
+    text-align: left;
+}
+.cardTextDatos{
+    font-size: 18px;
+    text-align: left;
+}
+.cardEvolucion{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.imgEvolucion{
+    height: 120px;
+}

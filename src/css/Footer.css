@@ -1,0 +1,25 @@
+/* .footer{
+    color: rgb(71, 91, 107);
+    padding-top:100px ;
+} */
+.footer {
+  background-color:#FFCC01;
+    padding-top: 80px;
+    color: #555;
+  }
+  
+  @media (max-width: 768px) {
+    .footer {
+      text-align: center; 
+    }
+  
+    .footer h4 {
+      font-size: 16px; 
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .footer h4 {
+      font-size: 10px; 
+    }
+  }

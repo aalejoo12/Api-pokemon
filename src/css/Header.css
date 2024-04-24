@@ -1,0 +1,24 @@
+.logo {
+    max-width: 24.375rem;
+    height: auto;
+  }
+  
+  @media (max-width: 768px) {
+    .logo {
+      max-width: 80%;
+      margin-top: 20px; /* Ajusta el margen según sea necesario */
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .logo {
+      max-width: 60%;
+      margin-top: 10px; /* Ajusta el margen según sea necesario */
+    }
+  } 
+  .buttonHeader{
+    font-size: 35px;
+  }
+  .navHeader{
+    margin-left: 15px;
+  }

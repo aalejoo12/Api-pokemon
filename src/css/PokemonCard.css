@@ -1,0 +1,18 @@
+.cardPoke:hover {
+    transform: scale(1.05); 
+    transition: transform 0.3s ease; 
+  }
+.cardPoke{
+    border-radius: 10px;
+    border-style: inset;
+    border-width: 5px;
+    border-color: 	#3b4cca;
+    background-color: #FFD508;
+    width: 15rem;
+    height: 360px;
+}
+.img{
+  width: 130px;
+  height: 200px;
+}
+

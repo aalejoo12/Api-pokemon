@@ -1,0 +1,5 @@
+export const BASE_URL = "https://pokeapi.co/api/v2"
+export const POKEMONS = "pokemon"
+export const ESPECIES ="species"
+export const TIPOS ="type"
+export const EVOLUCIONES = "evolution-chain"
